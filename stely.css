@@ -1,1 +1,27 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #89A8B2;
+}
 
+head{
+    background-color: #B3C8CF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.foto-jogando{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
